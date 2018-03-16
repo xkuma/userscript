@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ccavbox
-// @namespace    http://xynet.org
+// @namespace    https://raw.githubusercontent.com/xkuma/userscript/master/ccavbox.js
 // @version      0.1
 // @description  Home page show detail page.
 // @author       XYNET
