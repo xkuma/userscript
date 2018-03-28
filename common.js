@@ -31,4 +31,4 @@ var Strings = {
     subLastStrCenter: function (str, start, end) {
         return Strings.subStrRight(Strings.subStrLeft(str, end), start);
     }
-}
+};
