@@ -63,9 +63,8 @@
                 }
             }
         } else if (url.indexOf("wap.php") > -1) {
-            let footer = $("#down-footer");
-            if(footer)
-                footer.remove();
+            $(".imgpbpx").remove();
+            $("#down-footer").remove();
             $(".file_down_btn").attr("fty", "any").css("cursor", "pointer"); //.click();
         }
     } else if (checkIsExist(siteHost["牛盘"],hostname)) {
